@@ -1,0 +1,7 @@
+#ignore objects archives
+*.[oa]
+# ignore generated makefiels 
+Makefile
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
